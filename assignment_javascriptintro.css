@@ -1,0 +1,10 @@
+*{
+    font-family: "Open Sans",sans-serif;
+    box-sizing: border-box;
+}
+
+body {background-color: rgb(87, 196, 165);
+    font-family: 'Raleway', sans-serif;
+    margin: 20px;
+    text-align: center;
+}
